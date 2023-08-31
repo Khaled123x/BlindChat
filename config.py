@@ -1,6 +1,6 @@
 import os 
 
-TOKEN = os.environ.get("TOKEN", "")
+TOKEN = os.environ.get("TOKEN", "6503370664:AAF7TrDU_IjnM4ft47IX9BbSAsyiGgCk7xg")
 OWNER = os.environ.get("OWNER", "Kamrul3406x")
 GROUP = os.environ.get("GROUP", "KHCloudFileHangOut")
 CHANNEL = os.environ.get("CHANNEL", "KHCloudFile")
