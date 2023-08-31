@@ -206,5 +206,5 @@ def chat(message):
     bot.send_message(companion, message.text)
     bot.register_next_step_handler(message, chat)
 
-print("BOT IS READY TO JOIN @AsmSafone")
+print("BOT IS READY TO JOIN @KHCloudFile")
 bot.polling()
